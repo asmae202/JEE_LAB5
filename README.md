@@ -104,3 +104,16 @@ DAO transactionnel avec Spring + Hibernate.
 
 <img width="722" height="430" alt="LAB5 JEE SC3" src="https://github.com/user-attachments/assets/a9e6e867-cb64-4ffa-9238-63e7b07e62f9" />
 
+
+
+## 💡 Concepts clés
+
+Spring IoC et injection de dépendances.
+
+Gestion des transactions avec @Transactional.
+
+Hibernate ORM et mapping JPA.
+
+SessionFactory et Session Hibernate.
+
+DAO transactionnel avec Spring + Hibernate.
