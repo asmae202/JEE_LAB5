@@ -1,0 +1,10 @@
+# Default ignored files
+/../../spring-hibernate-demo./.idea/shelf/
+/../../spring-hibernate-demo./.idea/workspace.xml
+# Ignored default folder with query files
+/../../spring-hibernate-demo./.idea/queries/
+# Datasource local storage ignored files
+/../../spring-hibernate-demo./.idea/dataSources/
+/../../spring-hibernate-demo./.idea/dataSources.local.xml
+# Editor-based HTTP Client requests
+/../../spring-hibernate-demo./.idea/httpRequests/
