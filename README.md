@@ -84,18 +84,6 @@ Dans ce TP :
 
 <img width="821" height="407" alt="LAB 5 JEE SC1" src="https://github.com/user-attachments/assets/fde6745c-9722-4d19-9b4f-8a2dc7387c30" />
 
-## 💡 Concepts clés
-
-Spring IoC et injection de dépendances.
-
-Gestion des transactions avec @Transactional.
-
-Hibernate ORM et mapping JPA.
-
-SessionFactory et Session Hibernate.
-
-DAO transactionnel avec Spring + Hibernate.
-
 
 
 <img width="835" height="320" alt="LAB5 JEE SC2" src="https://github.com/user-attachments/assets/5f215f93-c7a8-4962-8f60-341d457c42e0" />
